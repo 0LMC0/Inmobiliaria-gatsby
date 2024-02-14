@@ -1,0 +1,389 @@
+.pdfs-container{
+    height: auto;
+    background-color: #eeeeee;
+
+    padding: 20px;
+    .titles-pdf-section{
+        padding: 5px 0;
+        text-align: center;
+        
+        .title-pdf-section{
+                font-family: var(--secondaryFont);
+                font-weight: 800;
+                font-size: 1.5rem;
+                color: #000;
+                margin-bottom: 5px;
+            }
+
+        .subtitle-pdfs-section{
+            font-size: 1.2rem;
+            font-family: var(--primaryFont);
+
+            color: #000000a6;
+        }
+    }
+
+    .cards-pdfs-container{
+        padding: 30px 0;
+        
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        align-items: center;
+        gap: 2rem;
+        
+        .card-pdfs{
+            color: #000;
+            font-family: var(--primaryFont);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 5px;
+            background-color: #ffffff;
+            width: 280px;
+            height: fit-content;
+
+
+            .img-cards-pdfs{
+                border-radius: 5px 5px 0 0;
+                width: 280px;
+            }
+
+            .text-container-cards{
+                padding: 10px 15px 20px 15px;
+                text-align: start;
+
+                
+
+
+                .title-cards-container{
+                    display: flex;
+                    justify-content: start;
+                    align-items: start;
+                    flex-direction: column;
+                    margin: 5px 0 10px 0;
+
+                    .title-card-pdfs{
+                        display: flex;
+                        align-items: center;
+                        gap: 0.5rem;
+                        font-size: 1.3rem;
+                        color: #000;
+                        padding: 10px 0 5px;
+                        text-transform: capitalize;
+                    }
+
+                    h6{
+                        font-size: 0.8rem;
+                        text-transform: capitalize;
+                        color: blue;
+                        background-color: #000;
+                        padding: 10px 10px;
+                        border-radius: 5px;
+                        color: yellow;
+                    }
+                    
+                }
+
+                .subname-container{
+                    display: flex;
+                    align-items: end;
+                    justify-content: space-between;
+                    margin: 10px 0;
+                    
+                    
+                    .subName-card-pdfs{
+                        display: flex;
+                        align-items: start;
+                        color: #d12727;
+                        font-family: var(--secondaryFont);
+                        font-size: 2rem;;
+                        font-weight: 600;
+                        
+                        .small-text-subName{
+                            font-size: 0.7rem;
+                            margin-right: 5px;
+                        }
+                    }
+                }
+
+                
+                
+
+                .description-card-pdfs{
+                    margin: 10px 0 10px 0;
+                    font-size: 0.9rem;
+                    color: #6e6e6e;
+                }
+
+                .ul-card-pdfs{
+                    list-style: none;
+                    display: flex;
+                    align-items: start;
+                    flex-direction: column;
+                    gap: 0.5rem;
+                    margin: 20px 0;
+                    
+                    .li-card-pdfs{
+                        margin: 5px 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;    
+                        gap: 0.2rem;
+                        font-size: 1.1rem;
+                        color: #6e6e6e;
+                        .icon-card-benefits-pdf{
+                            color: rgb(8, 191, 8);
+                        }
+                    }
+                }
+
+                .box-btn-card{
+                        width: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 0.5rem;
+                        justify-content: center;
+                        text-align: center;
+
+                        small{
+                            color: #6e6e6e;
+                            padding: 0;
+                            margin: 0;
+                        }
+
+
+                    .button-cta-card{
+                        cursor: pointer;
+                        display: flex;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        border-radius: 5px;
+                        color: #fff !important;
+                        font-family: var(--secondaryFont);
+                        padding: 10px 10px;
+                        font-size: 0.8rem;
+                        text-decoration: none;
+                        background-color: #3ACAF7;
+                        width: 100%;
+                        font-weight: 600;
+
+                        
+
+                        .mp-logo-cta{
+                            width: 2rem;
+                        }
+                        
+
+                        
+                    }
+
+                    .button-cta-cart{
+                        cursor: pointer;
+                        display: flex;
+                        justify-content: center;
+                        gap: 0.5rem;
+                        font-weight: bold;
+                        align-items: center;
+                        border-radius: 5px;
+                        color: #fff !important;
+                        font-family: var(--secondaryFont);
+                        padding: 10px 10px;
+                        font-size: 0.8rem;
+                        text-decoration: none;
+                        background-color: #34b91a;
+                        width: 100%;
+                        font-weight: 600;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 768px) {
+    .titles-pdf-section{
+        padding: 5px 0;
+        
+        .title-pdf-section{
+                font-size: 1.3rem!important;
+                width: 100%!important;
+        }
+
+        .subtitle-pdfs-section{
+            font-size: 1.1rem!important;
+            margin-top: 10px!important;
+        }
+    }
+
+    .card-pdfs{
+        color: #000;
+        font-family: var(--primaryFont);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 5px;
+        background-color: #ffffff;
+        width: 100%!important;
+        height: fit-content;
+
+
+        .img-cards-pdfs{
+            border-radius: 5px 5px 0 0;
+            width: 100%!important;
+        }
+
+        .text-container-cards{
+            padding: 10px 15px 20px 15px;
+            text-align: start;
+
+            
+
+
+            .title-cards-container{
+                display: flex;
+                justify-content: start;
+                align-items: start;
+                flex-direction: column;
+                margin: 5px 0 10px 0;
+
+                .title-card-pdfs{
+                    display: flex;
+                    align-items: center;
+                    gap: 0.5rem;
+                    font-size: 2rem!important;
+                    color: #000;
+                    padding: 10px 0 5px;
+                    text-transform: capitalize;
+                }
+
+                h6{
+                    font-size: 0.8rem;
+                    text-transform: capitalize;
+                    color: blue;
+                    background-color: #000;
+                    padding: 10px 10px;
+                    border-radius: 5px;
+                    color: yellow;
+                }
+                
+            }
+
+            .subname-container{
+                display: flex;
+                align-items: end;
+                justify-content: space-between;
+                margin: 10px 0;
+                
+                
+                .subName-card-pdfs{
+                    display: flex;
+                    align-items: start;
+                    color: #d12727;
+                    font-family: var(--secondaryFont);
+                    font-size: 2rem;;
+                    font-weight: 600;
+                    
+                    .small-text-subName{
+                        font-size: 0.7rem;
+                        margin-right: 5px;
+                    }
+                }
+            }
+
+            
+            
+
+            .description-card-pdfs{
+                margin: 10px 0 10px 0;
+                font-size: 0.9rem;
+                color: #6e6e6e;
+            }
+
+            .ul-card-pdfs{
+                list-style: none;
+                display: flex;
+                align-items: start;
+                flex-direction: column;
+                gap: 0.5rem;
+                margin: 20px 0;
+                
+                .li-card-pdfs{
+                    margin: 5px 0;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;    
+                    gap: 0.2rem;
+                    font-size: 1.1rem;
+                    color: #6e6e6e;
+                    .icon-card-benefits-pdf{
+                        color: rgb(8, 191, 8);
+                    }
+                }
+            }
+
+            .box-btn-card{
+                    width: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.5rem;
+                    justify-content: center;
+                    text-align: center;
+
+                    small{
+                        color: #6e6e6e;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+
+                .button-cta-card{
+                    cursor: pointer;
+                    display: flex;
+                    justify-content: center!important;
+                    gap: 0.5rem;
+                    align-items: center;
+                    border-radius: 5px;
+                    color: #fff !important;
+                    font-family: var(--secondaryFont);
+                    padding: 10px 10px;
+                    font-size: 0.8rem;
+                    text-decoration: none;
+                    background-color: #3ACAF7;
+                    width: 100%;
+                    font-weight: 600;
+
+                    
+
+                    .mp-logo-cta{
+                        width: 2rem;
+                    }
+                    
+
+                    
+                }
+
+                .button-cta-cart{
+                    cursor: pointer;
+                    display: flex;
+                    justify-content: center;
+                    gap: 0.5rem;
+                    font-weight: bold;
+                    align-items: center;
+                    border-radius: 5px;
+                    color: #fff !important;
+                    font-family: var(--secondaryFont);
+                    padding: 10px 10px;
+                    font-size: 0.8rem;
+                    text-decoration: none;
+                    background-color: #34b91a;
+                    width: 100%;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}

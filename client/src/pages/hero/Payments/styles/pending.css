@@ -1,0 +1,47 @@
+.pending-container {
+  background-color: #fff;
+  color: #000;
+  padding: 50px;
+}
+.pending-container .upperbox-payment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.pending-container .upperbox-payment h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+.pending-container .upperbox-payment p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.pending-container .upperbox-payment .box-buttons-pending {
+  display: flex;
+  gap: 1rem;
+}
+.pending-container .upperbox-payment .whatsapp-button,
+.pending-container .upperbox-payment .home-button {
+  background-color: #25d366;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.pending-container .upperbox-payment .whatsapp-button:hover,
+.pending-container .upperbox-payment .home-button:hover {
+  background-color: #128c7e;
+}
+.pending-container .upperbox-payment .whatsapp-button svg {
+  width: 25px;
+  font-size: 0.5rem !important;
+}/*# sourceMappingURL=pending.css.map */

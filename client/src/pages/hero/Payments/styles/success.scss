@@ -1,0 +1,120 @@
+.success-container {
+  background-color: #ffffff;
+  padding: 50px;
+  color: #333;
+
+  .upperbox-payment {
+    text-align: center;
+    margin-bottom: 50px;
+    
+
+    .success-icon {
+      font-size: 4rem;
+      color: #28a745;
+    }
+
+    h2 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      opacity: 0.8;
+    }
+
+    .whatsapp-button{
+      display: flex;
+      align-items: center!important;
+    }
+
+
+    .whatsapp-button,
+    .home-button {
+      display: inline-block;
+      align-items: center;
+      padding: 12px 20px;
+      margin-top: 20px;
+      font-size: 1.2rem;
+      text-decoration: none;
+      color: #fff;
+      background-color: #007bff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: #0056b3;
+      }
+
+      &:not(:last-child) {
+        margin-right: 10px;
+      }
+
+      svg {
+        font-size: 1rem;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .footer-payment {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+
+    .purchase-details {
+      h3 {
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+      }
+
+      .purchase-item {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 10px;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .success-container {
+      padding: 30px;
+    }
+
+    .upperbox-payment {
+      .success-icon {
+        font-size: 3rem;
+      }
+
+      h2 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1rem;
+      }
+
+      .whatsapp-button,
+      .home-button {
+        font-size: 1rem;
+      }
+    }
+
+    .footer-payment {
+      .purchase-details {
+        h3 {
+          font-size: 1.5rem;
+        }
+      }
+    }
+  }
+}

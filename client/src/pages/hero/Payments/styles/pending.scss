@@ -1,0 +1,56 @@
+.pending-container {
+    background-color: #fff;
+    color: #000;
+    padding: 50px;
+  
+    .upperbox-payment {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin-bottom: 30px;
+      text-align: center;
+  
+      h2 {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+      }
+  
+      p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+      }
+
+      .box-buttons-pending{
+        display: flex;
+        gap: 1rem;
+      }
+  
+      .whatsapp-button,
+      .home-button {
+        background-color: #25d366;
+        color: #fff;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 8px;
+        font-size: 1.2rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+  
+        &:hover {
+          background-color: #128c7e;
+        }
+      }
+  
+      .whatsapp-button {
+        svg {
+            width: 25px;
+          font-size: 0.5rem!important;
+        }
+      }
+    }
+  }
+  

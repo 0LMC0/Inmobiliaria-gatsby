@@ -1,0 +1,318 @@
+.pdfs-container {
+  height: auto;
+  background-color: #eeeeee;
+  padding: 20px;
+}
+.pdfs-container .titles-pdf-section {
+  padding: 5px 0;
+  text-align: center;
+}
+.pdfs-container .titles-pdf-section .title-pdf-section {
+  font-family: var(--secondaryFont);
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: #000;
+  margin-bottom: 5px;
+}
+.pdfs-container .titles-pdf-section .subtitle-pdfs-section {
+  font-size: 1.2rem;
+  font-family: var(--primaryFont);
+  color: rgba(0, 0, 0, 0.6509803922);
+}
+.pdfs-container .cards-pdfs-container {
+  padding: 30px 0;
+  width: 100%;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs {
+  color: #000;
+  font-family: var(--primaryFont);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #ffffff;
+  width: 280px;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .img-cards-pdfs {
+  border-radius: 5px 5px 0 0;
+  width: 280px;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards {
+  padding: 10px 15px 20px 15px;
+  text-align: start;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .title-cards-container {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  margin: 5px 0 10px 0;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .title-cards-container .title-card-pdfs {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.3rem;
+  color: #000;
+  padding: 10px 0 5px;
+  text-transform: capitalize;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .title-cards-container h6 {
+  font-size: 0.8rem;
+  text-transform: capitalize;
+  color: blue;
+  background-color: #000;
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: yellow;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .subname-container {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .subname-container .subName-card-pdfs {
+  display: flex;
+  align-items: start;
+  color: #d12727;
+  font-family: var(--secondaryFont);
+  font-size: 2rem;
+  font-weight: 600;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .subname-container .subName-card-pdfs .small-text-subName {
+  font-size: 0.7rem;
+  margin-right: 5px;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .description-card-pdfs {
+  margin: 10px 0 10px 0;
+  font-size: 0.9rem;
+  color: #6e6e6e;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .ul-card-pdfs {
+  list-style: none;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 20px 0;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .ul-card-pdfs .li-card-pdfs {
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+  font-size: 1.1rem;
+  color: #6e6e6e;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .ul-card-pdfs .li-card-pdfs .icon-card-benefits-pdf {
+  color: rgb(8, 191, 8);
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .box-btn-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+  text-align: center;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .box-btn-card small {
+  color: #6e6e6e;
+  padding: 0;
+  margin: 0;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .box-btn-card .button-cta-card {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 5px;
+  color: #fff !important;
+  font-family: var(--secondaryFont);
+  padding: 10px 10px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  background-color: #3ACAF7;
+  width: 100%;
+  font-weight: 600;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .box-btn-card .button-cta-card .mp-logo-cta {
+  width: 2rem;
+}
+.pdfs-container .cards-pdfs-container .card-pdfs .text-container-cards .box-btn-card .button-cta-cart {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 5px;
+  color: #fff !important;
+  font-family: var(--secondaryFont);
+  padding: 10px 10px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  background-color: #34b91a;
+  width: 100%;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .titles-pdf-section {
+    padding: 5px 0;
+  }
+  .titles-pdf-section .title-pdf-section {
+    font-size: 1.3rem !important;
+    width: 100% !important;
+  }
+  .titles-pdf-section .subtitle-pdfs-section {
+    font-size: 1.1rem !important;
+    margin-top: 10px !important;
+  }
+  .card-pdfs {
+    color: #000;
+    font-family: var(--primaryFont);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 100% !important;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .card-pdfs .img-cards-pdfs {
+    border-radius: 5px 5px 0 0;
+    width: 100% !important;
+  }
+  .card-pdfs .text-container-cards {
+    padding: 10px 15px 20px 15px;
+    text-align: start;
+  }
+  .card-pdfs .text-container-cards .title-cards-container {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin: 5px 0 10px 0;
+  }
+  .card-pdfs .text-container-cards .title-cards-container .title-card-pdfs {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 2rem !important;
+    color: #000;
+    padding: 10px 0 5px;
+    text-transform: capitalize;
+  }
+  .card-pdfs .text-container-cards .title-cards-container h6 {
+    font-size: 0.8rem;
+    text-transform: capitalize;
+    color: blue;
+    background-color: #000;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: yellow;
+  }
+  .card-pdfs .text-container-cards .subname-container {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  .card-pdfs .text-container-cards .subname-container .subName-card-pdfs {
+    display: flex;
+    align-items: start;
+    color: #d12727;
+    font-family: var(--secondaryFont);
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .card-pdfs .text-container-cards .subname-container .subName-card-pdfs .small-text-subName {
+    font-size: 0.7rem;
+    margin-right: 5px;
+  }
+  .card-pdfs .text-container-cards .description-card-pdfs {
+    margin: 10px 0 10px 0;
+    font-size: 0.9rem;
+    color: #6e6e6e;
+  }
+  .card-pdfs .text-container-cards .ul-card-pdfs {
+    list-style: none;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 20px 0;
+  }
+  .card-pdfs .text-container-cards .ul-card-pdfs .li-card-pdfs {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2rem;
+    font-size: 1.1rem;
+    color: #6e6e6e;
+  }
+  .card-pdfs .text-container-cards .ul-card-pdfs .li-card-pdfs .icon-card-benefits-pdf {
+    color: rgb(8, 191, 8);
+  }
+  .card-pdfs .text-container-cards .box-btn-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+    text-align: center;
+  }
+  .card-pdfs .text-container-cards .box-btn-card small {
+    color: #6e6e6e;
+    padding: 0;
+    margin: 0;
+  }
+  .card-pdfs .text-container-cards .box-btn-card .button-cta-card {
+    cursor: pointer;
+    display: flex;
+    justify-content: center !important;
+    gap: 0.5rem;
+    align-items: center;
+    border-radius: 5px;
+    color: #fff !important;
+    font-family: var(--secondaryFont);
+    padding: 10px 10px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    background-color: #3ACAF7;
+    width: 100%;
+    font-weight: 600;
+  }
+  .card-pdfs .text-container-cards .box-btn-card .button-cta-card .mp-logo-cta {
+    width: 2rem;
+  }
+  .card-pdfs .text-container-cards .box-btn-card .button-cta-cart {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: bold;
+    align-items: center;
+    border-radius: 5px;
+    color: #fff !important;
+    font-family: var(--secondaryFont);
+    padding: 10px 10px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    background-color: #34b91a;
+    width: 100%;
+    font-weight: 600;
+  }
+}/*# sourceMappingURL=pdfsStyles.css.map */

@@ -1,0 +1,76 @@
+.failure-container {
+  background-color: #fff;
+  color: #000;
+  padding: 50px;
+}
+.failure-container .upperbox-payment {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.failure-container .upperbox-payment .volver-atras-failure {
+  display: flex;
+  gap: 1rem;
+}
+.failure-container .upperbox-payment h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+.failure-container .upperbox-payment p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+.failure-container .upperbox-payment .whatsapp-button,
+.failure-container .upperbox-payment .home-button {
+  background-color: #25d366;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.failure-container .upperbox-payment .whatsapp-button:hover,
+.failure-container .upperbox-payment .home-button:hover {
+  background-color: #128c7e;
+}
+.failure-container .footer-payment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failure-container .footer-payment .contact-info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.failure-container .footer-payment .contact-info p {
+  font-size: 1rem;
+  margin-right: 10px;
+}
+.failure-container .footer-payment .contact-info .whatsapp-button {
+  background-color: #25d366;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.failure-container .footer-payment .contact-info .whatsapp-button:hover {
+  background-color: #128c7e;
+}
+.failure-container .footer-payment .contact-info .whatsapp-button svg {
+  font-size: 1.5rem;
+}/*# sourceMappingURL=failure.css.map */
