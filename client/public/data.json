@@ -13,17 +13,6 @@
     },
     {
         "id": 2,
-        "subNombre": "+420 Contactos variados",
-        "nombre": "Combo Indumentaria",
-        "price": 8999,
-        "image": "/assets/img/cards-pdfs/indu.png",
-        "description": "+420 Proveedores y fabricantes | Desde indumentaria de hombre y mujer hasta ropa para niños y bebés.",
-        "benefits": ["Ropa de hombre y mujer", "Calzado", "Ropa de niño y mucho mas"],
-        "linkMp": "https://mpago.la/2pGrwLs",
-        "quanty": 1
-    },
-    {
-        "id": 3,
         "subNombre": "+38 Contactos",
         "nombre": "Bazar y Juguetería",
         "price": 2999,
@@ -31,6 +20,17 @@
         "description": "+38 Proveedores y fabricantes | Desde artículos de cocina y decoración hasta juguetes para todas las edades.",
         "benefits": ["Mates y Termos", "Articulos para el hogar", "Juguetes y demas"],
         "linkMp": "https://mpago.la/24RV22i",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "subNombre": "+420 Contactos variados",
+        "nombre": "Combo Indumentaria",
+        "price": 8999,
+        "image": "/assets/img/cards-pdfs/indu.png",
+        "description": "+420 Proveedores y fabricantes | Desde indumentaria de hombre y mujer hasta ropa para niños y bebés.",
+        "benefits": ["Ropa de hombre y mujer", "Calzado", "Ropa de niño y mucho mas"],
+        "linkMp": "https://mpago.la/2pGrwLs",
         "quanty": 1
     },
     {
