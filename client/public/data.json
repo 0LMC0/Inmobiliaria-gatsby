@@ -1,5 +1,5 @@
 [
-
+    
     {
         "id": 1,
         "subNombre": "Por Tiempo Limitado",
@@ -15,7 +15,7 @@
         "id": 2,
         "subNombre": "+420 Contactos variados",
         "nombre": "Combo Indumentaria",
-        "price": 4999,
+        "price": 8999,
         "image": "/assets/img/cards-pdfs/indu.png",
         "description": "+420 Proveedores y fabricantes | Desde indumentaria de hombre y mujer hasta ropa para niños y bebés.",
         "benefits": ["Ropa de hombre y mujer", "Calzado", "Ropa de niño y mucho mas"],
