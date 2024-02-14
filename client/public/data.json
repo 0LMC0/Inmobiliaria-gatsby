@@ -5,7 +5,7 @@
         "subNombre": "Por Tiempo Limitado",
         "nombre": "Curso E-commerce",
         "price": 1999,
-        "image": "./assets/img/curso-ecommerce.png",
+        "image": "./static/curso-ecommerce.png",
         "description": "+47 páginas | Descubri estrategias efectivas, consejos prácticos y mas para llevar tu negocio online al siguiente nivel.",
         "benefits": ["Emprender Con Confianza", "Consejos Accionables", "Guia completa de exito"],
         "linkMp": "https://mpago.la/1itP6uH",
