@@ -53,7 +53,7 @@ const CartContent = () => {
         quantity: Number(item.quanty),
       }));
   
-      const response = await axios.post('http://cs-server-gamma.vercel.app/create_preference', {
+      const response = await axios.post('https://cs-server-irr0h7qzp-0lmc0s-projects.vercel.app/create_preference', {
         items: preferenceItems,
       }, {
         headers: {
