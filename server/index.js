@@ -2,7 +2,6 @@ import express from "express";
 import cors from "cors";
 import { MercadoPagoConfig, Preference } from 'mercadopago';
 
-
 const client = new MercadoPagoConfig({
     accessToken: 'APP_USR-5739005951941838-021013-04f0b9b4bdc5910a0da197701946a6bc-220445932',
 });
@@ -10,17 +9,11 @@ const client = new MercadoPagoConfig({
 const app = express();
 const port = 3000;
 
-app.use((req, res, next) => {
-    res.header(
-      "Access-Control-Allow-Origin",
-      "https://csmayoristas.com.ar/"
-    );
-    res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
-    res.header("Access-Control-Allow-Headers", "Content-Type");
-    next();
-  });
-
-app.use(cors());
+app.use(cors({
+    origin: 'https://csmayoristas.com.ar',
+    methods: 'GET,POST',
+    optionsSuccessStatus: 200
+}));
 app.use(express.json());
 
 app.get("/", (req, res) => {
@@ -34,7 +27,7 @@ app.post("/create_preference", async (req, res) => {
         const preferenceItems = items.map(item => ({
             title: item.title,
             description: item.description,
-            quantity: Number(item.quantity), // Asegúrate de que item.quantity sea un número
+            quantity: Number(item.quantity), 
             unit_price:  Number(item.unit_price),
             currency_id: "ARS",
             picture_url: item.picture_url,
@@ -63,7 +56,6 @@ app.post("/create_preference", async (req, res) => {
         });
     }
 });
-
 
 app.listen(port, () => {
     console.log(`Escuchando en el puerto ${port}`);
