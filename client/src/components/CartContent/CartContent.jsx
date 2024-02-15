@@ -10,7 +10,6 @@ import { initMercadoPago, Wallet } from '@mercadopago/sdk-react';
 import axios from 'axios';
 import { CiCircleCheck, CiCirclePlus } from "react-icons/ci";
 import { CiCircleChevDown } from "react-icons/ci";
-import { FaChevronDown } from "react-icons/fa";
 import { motion } from 'framer-motion';
 import { GoChevronLeft, GoChevronRight } from "react-icons/go";
 import Swal from 'sweetalert2/dist/sweetalert2.js'
