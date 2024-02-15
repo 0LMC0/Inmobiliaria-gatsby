@@ -1,4 +1,3 @@
-User
 import express from "express";
 import cors from "cors";
 import { MercadoPagoConfig, Preference } from 'mercadopago';

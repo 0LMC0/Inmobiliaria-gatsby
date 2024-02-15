@@ -115,7 +115,7 @@ const Footer = () => {
           <p>Buenos Aires, Argentina.</p>
         </div>
       </div>
-      <p className='copyright'>&copy; {new Date().getFullYear()} Cs.mayoristas. Todos los derechos reservados.</p>
+      <p className='copyright'>&copy; {new Date().getFullYear()} Creado con <a href="https://practienda.com/" style={{color: '#fff', textDecoration: 'none', fontSize: '1.2rem'}}>prac<span style={{color: 'green'}}>tienda</span>.com</a>. Todos los derechos reservados.</p>
     </footer>
   );
 };
