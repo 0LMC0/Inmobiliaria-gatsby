@@ -1,7 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react';
 import { FaInstagram, FaWhatsapp, FaRegAddressBook } from 'react-icons/fa';
 import { IoArrowBackSharp } from 'react-icons/io5';
-import { TiShoppingCart } from 'react-icons/ti';
 import { Link } from 'react-router-dom';
 import { dataContext } from '../Context/DataContext';
 import CartElements from './CartElements';
@@ -11,7 +10,7 @@ import axios from 'axios';
 import { CiCircleCheck, CiCirclePlus } from "react-icons/ci";
 import { CiCircleChevDown } from "react-icons/ci";
 import { motion } from 'framer-motion';
-import { GoChevronLeft, GoChevronRight } from "react-icons/go";
+import { GoChevronLeft } from "react-icons/go";
 import Swal from 'sweetalert2/dist/sweetalert2.js'
 import 'sweetalert2/src/sweetalert2.scss'
 import { IoIosCheckmarkCircleOutline } from "react-icons/io";
