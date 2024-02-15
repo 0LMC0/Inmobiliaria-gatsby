@@ -112,7 +112,7 @@ const Footer = () => {
       <div className='footer-bottom'>
         <div className='contact-info'>
           <FaMapMarkerAlt />
-          <p>Buenos Aires, Argentina</p>
+          <p>Buenos Aires, Argentina.</p>
         </div>
       </div>
       <p className='copyright'>&copy; {new Date().getFullYear()} Cs.mayoristas. Todos los derechos reservados.</p>
