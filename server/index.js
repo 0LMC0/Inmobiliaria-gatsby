@@ -33,7 +33,7 @@ app.post("/create_preference", async (req, res) => {
         const body = {
             items: preferenceItems,
             back_urls: {
-                success: "http://www.csmayoristas.com.ar/pagoconfirmado",
+                success: "https://wa.me/message/HM2HD47CUVLXI1",
                 failure: "http://www.csmayoristas.com.ar/pagoconerror",
                 pendings: "http://www.csmayoristas.com.ar/pagoenproceso",
             },

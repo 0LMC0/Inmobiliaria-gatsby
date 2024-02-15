@@ -8,7 +8,7 @@
         "image": "/assets/img/cards-pdfs/curso-ecommerce.png",
         "description": "+47 páginas | Descubri estrategias efectivas, consejos prácticos y mas para llevar tu negocio online al siguiente nivel.",
         "benefits": ["Emprender Con Confianza", "Consejos Accionables", "Guia completa de exito"],
-        "linkMp": "https://mpago.la/1itP6uH",
+        "linkMp": "https://mpago.la/1J1XbB8",
         "quanty": 1
     },
     {
@@ -19,18 +19,18 @@
         "image": "/assets/img/cards-pdfs/bazar.png",
         "description": "+38 Proveedores y fabricantes | Desde artículos de cocina y decoración hasta juguetes para todas las edades.",
         "benefits": ["Mates y Termos", "Articulos para el hogar", "Juguetes y demas"],
-        "linkMp": "https://mpago.la/24RV22i",
+        "linkMp": "https://mpago.la/1cZKbxR",
         "quanty": 1
     },
     {
         "id": 3,
         "subNombre": "+420 Contactos variados",
         "nombre": "Combo Indumentaria",
-        "price": 8999,
+        "price": 7999,
         "image": "/assets/img/cards-pdfs/indu.png",
         "description": "+420 Proveedores y fabricantes | Desde indumentaria de hombre y mujer hasta ropa para niños y bebés.",
         "benefits": ["Ropa de hombre y mujer", "Calzado", "Ropa de niño y mucho mas"],
-        "linkMp": "https://mpago.la/2pGrwLs",
+        "linkMp": "https://mpago.la/25YAMjf",
         "quanty": 1
     },
     {
@@ -41,7 +41,7 @@
         "image": "/assets/img/cards-pdfs/iphones.png",
         "description": "+19 Proveedores y fabricantes | Amplia gama de modelos de iPhones, JBL y productos de la marca Stanley",
         "benefits": ["Iphones y Celulares", "JBL", "Importadores"],
-        "linkMp": "https://mpago.la/1SK6J2i",
+        "linkMp": "https://mpago.la/22oFi6v",
         "quanty": 1
     },
     {
@@ -52,18 +52,18 @@
         "image": "/assets/img/cards-pdfs/ferreteria.png",
         "description": "+12 Proveedores y fabricantes |  Herramientas, materiales de construcción, Ferreteria Gral y mas",
         "benefits": ["Maquinaria manual", "Construccion", "Ferreteria Gral"],
-        "linkMp": "https://mpago.la/1Yvs7By",
+        "linkMp": "https://mpago.la/2osdprV",
         "quanty": 1
     },
     {
         "id": 6,
         "subNombre": "+120 Contactos",
         "nombre": "Calzado",
-        "price": 2999,
+        "price": 3999,
         "image": "/assets/img/cards-pdfs/calzado.png",
         "description": "+120 Proveedores y fabricantes | Desde zapatos casuales hasta calzado deportivo de las mejores marcas",
         "benefits": ["Calzado Gral", "Ojotas", "Calzado Niños"],
-        "linkMp": "https://mpago.la/1AoAPR4",
+        "linkMp": "https://mpago.la/2SBtXW6",
         "quanty": 1
     },
     {
@@ -74,7 +74,7 @@
         "image": "/assets/img/cards-pdfs/tecnologia.png",
         "description": "+22 Proveedores y fabricantes | Lo último en gadgets, dispositivos electrónicos y equipos tecnológicos",
         "benefits": ["Auriculares", "Cables y Cargadores", "Servicio Tecnico y demas!"],
-        "linkMp": "https://mpago.la/33V1m4S",
+        "linkMp": "https://mpago.la/1PCmVsH",
         "quanty": 1
     },
     {
@@ -85,7 +85,7 @@
         "image": "/assets/img/cards-pdfs/reloj.png",
         "description": "+10 Proveedores y fabricantes | Elegantes relojes, desde diseños clásicos hasta modelos modernos y deportivos.",
         "benefits": ["Relojes Pulsera", "Servicio tecnico", "Relojes Niños"],
-        "linkMp": "https://mpago.la/2XJwrBW",
+        "linkMp": "https://mpago.la/172Kjv9",
         "quanty": 1
     },
     {
@@ -96,7 +96,7 @@
         "image": "/assets/img/cards-pdfs/perfume.png",
         "description": "+22 Proveedores y fabricantes | Fragancias exclusivas y una amplia variedad de perfumes para hombres y mujeres, todo en un solo catálogo.",
         "benefits": ["Perfumes Hombres", "Perfumes Mujer", "Mayoristas Especializados"],
-        "linkMp": "https://mpago.la/1HQjA1X",
+        "linkMp": "https://mpago.la/1nvMQdb",
         "quanty": 1
     },    
     {
@@ -107,7 +107,7 @@
         "image": "/assets/img/cards-pdfs/accesorios.png",
         "description": "+69 Proveedores y fabricantes | Amplia selección de accesorios de moda, artículos de blanquería y productos de marroquinería de alta calidad.",
         "benefits": ["Bijouterie", "Blanqueria", "Marroquineria"],
-        "linkMp": "https://mpago.la/2roU8zy",
+        "linkMp": "https://mpago.la/2PpuvUk",
         "quanty": 1
     },
     {
@@ -118,7 +118,7 @@
         "image": "/assets/img/cards-pdfs/importador.png",
         "description": "+37 Proveedores y fabricantes | Descubri una variedad de productos importados de diferentes partes del mundo, ofrecidos por importadores de confianza",
         "benefits": ["Importadores", "Productos Importados", "Maxima Calidad"],
-        "linkMp": "https://mpago.la/2rMMs71",
+        "linkMp": "https://mpago.la/2GV3Cwx",
         "quanty": 1
     }
     ,
@@ -130,18 +130,18 @@
         "image": "/assets/img/cards-pdfs/temporada.png",
         "description": "+37 Proveedores y fabricantes | Mantente al día con las últimas tendencias y productos de temporada, desde moda hasta artículos para el hogar.",
         "benefits": ["Chucherias", "Locales Chinos", "Productos de temporada"],
-        "linkMp": "https://mpago.la/2X7fPQT",
+        "linkMp": "https://mpago.la/1yTryqf",
         "quanty": 1
     },
     {
         "id": 13,
         "subNombre": "+74 Contactos",
         "nombre": "Ropa Deportiva",
-        "price": 2999,
+        "price": 3999,
         "image": "/assets/img/cards-pdfs/deportiva.png",
         "description": "+74 Proveedores y fabricantes | Equípate para el rendimiento con nuestra amplia gama de ropa deportiva de alta calidad, diseñada para tus actividades favoritas",
         "benefits": ["Conjuntos", "ropa de deporte", "Camisetas Futbol"],
-        "linkMp": "https://mpago.la/1Ah8UeL",
+        "linkMp": "https://mpago.la/2z1zRt2",
         "quanty": 1
     },
     {
@@ -152,7 +152,7 @@
         "image": "/assets/img/cards-pdfs/jeans.png",
         "description": "+93 Proveedores y fabricantes | Encontra el ajuste perfecto con nuestra amplia selección de jeans de diferentes estilos, cortes y lavados",
         "benefits": ["Jeans Hombre", "Jeans Mujer", "Jeans Niños"],
-        "linkMp": "https://mpago.la/29FbiFk",
+        "linkMp": "https://mpago.la/2fX5XUa",
         "quanty": 1
     },
     {
@@ -161,9 +161,9 @@
         "nombre": "Kiosco y Almacen",
         "price": 2999,
         "image": "/assets/img/cards-pdfs/kiosco.png",
-        "description": "+10 Proveedores y fabricantes | Abastece tu kiosco o almacén con una variedad de productos, desde golosinas y snacks hasta productos de limpieza y más.",
+        "description": "+26 Proveedores y fabricantes | Abastece tu kiosco o almacén con una variedad de productos, desde golosinas y snacks hasta productos de limpieza y más.",
         "benefits": ["Golosinas", "Bebidas", "Almacen"],
-        "linkMp": "https://mpago.la/2hXF9e9",
+        "linkMp": "https://mpago.la/1iwJXD6",
         "quanty": 1
     },
     {
@@ -174,7 +174,7 @@
         "image": "/assets/img/cards-pdfs/bebidas.png",
         "description": "+16 Proveedores y fabricantes | Refréscate con nuestros proveedores de bebidas, que incluye una variedad de opciones, desde jugos y refrescos hasta vinos y licores",
         "benefits": ["Gaseosas", "Bebidas Alcoholicas", "Maxima Calidad"],
-        "linkMp": "https://mpago.la/2gMa8eQ",
+        "linkMp": "https://mpago.la/1tMTpMp",
         "quanty": 1
     },
     {
@@ -185,7 +185,7 @@
         "image": "/assets/img/cards-pdfs/libreria.png",
         "description": "+20 Proveedores y fabricantes | Todo lo que necesitas para la escuela, la oficina o tu negocio, desde útiles escolares hasta suministros de oficina",
         "benefits": ["Art. Libreria", "Art. Papeleria", "Art. Escolares"],
-        "linkMp": "https://mpago.la/2vpnPv4",
+        "linkMp": "https://mpago.la/23xWDve",
         "quanty": 1
     },
     {
@@ -196,7 +196,7 @@
         "image": "/assets/img/cards-pdfs/gorros.png",
         "description": "+18 Proveedores y fabricantes | Proveedores de gorras, gorros y viseras de diferentes estilos y diseños",
         "benefits": ["Gorras", "Gorros", "Viceras y demas"],
-        "linkMp": "https://mpago.la/2cxw3iA",
+        "linkMp": "https://mpago.la/2i3jMeD",
         "quanty": 1
     },
     {
@@ -207,7 +207,7 @@
         "image": "/assets/img/cards-pdfs/petshop.png",
         "description": "+30 Proveedores y fabricantes | Proveedores y fabricantes de productos para mascotas, que incluye alimentos, juguetes y accesorios",
         "benefits": ["Pet-shop Gral", "Alimento Balanceado", "Juguetes"],
-        "linkMp": "https://mpago.la/1iPuPiC",
+        "linkMp": "https://mpago.la/1aRAvr4",
         "quanty": 1
     },
     {
@@ -218,7 +218,7 @@
         "image": "/assets/img/cards-pdfs/lenceria.png",
         "description": "+30 Proveedores y fabricantes | Encontra la lencería perfecta para cada ocasión, desde ropa interior básica hasta conjuntos sensuales y cómodos",
         "benefits": ["Importadores", "Productos Importados", "Maxima Calidad"],
-        "linkMp": "https://mpago.la/2KgBN9m",
+        "linkMp": "https://mpago.la/2RTwz4C",
         "quanty": 1
     },
     {
