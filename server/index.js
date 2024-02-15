@@ -10,7 +10,11 @@ const client = new MercadoPagoConfig({
 const app = express();
 const port = 3000;
 
-app.use(cors());
+app.use(cors({
+    origin: 'https://csmayoristas.com.ar', // Permitir solo solicitudes desde este origen
+    methods: 'GET,POST', // Permitir solicitudes GET y POST
+    optionsSuccessStatus: 200 // Cambiar el código de estado para las solicitudes OPTIONS exitosas
+  }));
 app.use(express.json());
 
 app.get("/", (req, res) => {
