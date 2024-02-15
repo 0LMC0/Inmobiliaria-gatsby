@@ -285,6 +285,9 @@
     font-size: 1.2rem;
     margin-bottom: 10px;
   }
+  .cart-container .sides-cart .left-side-cart .title-cart-left-side img {
+    width: 80% !important;
+  }
   .cart-container .sides-cart .left-side-cart .socials {
     display: flex;
     flex-direction: column;
