@@ -1,16 +1,15 @@
 [   
     {
-        "id": 0,
-        "subNombre": "+1000 contactos",
-        "nombre": "Catalogo Completo",
-        "price": 39999,
-        "image": "/assets/img/cards-pdfs/catalogo-completo.png",
-        "description": "+1000 contacos | Todos los rubros agrupados estan aca por un precio realmente economico",
-        "benefits": ["+20 Rubros Diferentes", "Inversion Inteligente", "+1000 contactos de fabricantes"],
-        "linkMp": "https://mpago.la/15Bw1rd",
+        "id": 4,
+        "subNombre": "+19 Contactos",
+        "nombre": "Productos ganadores",
+        "price": 4999,
+        "image": "/assets/img/cards-pdfs/iphones.png",
+        "description": "+19 Proveedores y fabricantes | Amplia gama de modelos de iPhones, JBL y productos de la marca Stanley",
+        "benefits": ["Iphones y Celulares", "JBL y Stanley", "Dropshipping"],
+        "linkMp": "https://mpago.la/22oFi6v",
         "quanty": 1
     },
-    
     {
         "id": 1,
         "subNombre": "Por Tiempo Limitado",
@@ -44,15 +43,16 @@
         "linkMp": "https://mpago.la/25YAMjf",
         "quanty": 1
     },
+
     {
         "id": 4,
-        "subNombre": "+19 Contactos",
-        "nombre": "Productos ganadores",
-        "price": 4999,
-        "image": "/assets/img/cards-pdfs/iphones.png",
-        "description": "+19 Proveedores y fabricantes | Amplia gama de modelos de iPhones, JBL y productos de la marca Stanley",
-        "benefits": ["Iphones y Celulares", "JBL y Stanley", "Dropshipping"],
-        "linkMp": "https://mpago.la/22oFi6v",
+        "subNombre": "+1000 contactos",
+        "nombre": "Catalogo Completo",
+        "price": 39999,
+        "image": "/assets/img/cards-pdfs/catalogo-completo.png",
+        "description": "+1000 contacos | Todos los rubros agrupados estan aca por un precio realmente economico",
+        "benefits": ["+20 Rubros Diferentes", "Inversion Inteligente", "+1000 contactos de fabricantes"],
+        "linkMp": "https://mpago.la/15Bw1rd",
         "quanty": 1
     },
     {
@@ -139,7 +139,7 @@
         "nombre": "Productos De Temporada",
         "price": 2999,
         "image": "/assets/img/cards-pdfs/temporada.png",
-        "description": "+37 Proveedores y fabricantes | Mantente al día con las últimas tendencias y productos de temporada, desde moda hasta artículos para el hogar.",
+        "description": "+17 Proveedores y fabricantes | Mantente al día con las últimas tendencias y productos de temporada, desde moda hasta artículos para el hogar.",
         "benefits": ["Chucherias", "Locales Chinos", "Productos de temporada"],
         "linkMp": "https://mpago.la/1yTryqf",
         "quanty": 1
