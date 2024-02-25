@@ -59,6 +59,8 @@ const Footer = () => {
               <motion.li whileHover={{scale: 1.05}} whileTap={{scale: 0.98}}><a className='faq-question' href="#catalogos">Cursos Disponibles</a></motion.li>
               <motion.li whileHover={{scale: 1.05}} whileTap={{scale: 0.98}}><a className='faq-question' href="https://practienda.com" target='_blank'> <FaLink /> Necesito un sitio web</a></motion.li>
               <motion.li whileHover={{scale: 1.05}} whileTap={{scale: 0.98}}> <Link className='faq-question' to='/contacto'>Quiero Formar Parte De Las Listas</Link></motion.li>
+              <motion.li whileHover={{scale: 1.05}} whileTap={{scale: 0.98}}> <Link className='faq-question' to='/politicaprivacidad'>Politica de Privacidad</Link></motion.li>
+
             </ul>
           </div>
           <hr />

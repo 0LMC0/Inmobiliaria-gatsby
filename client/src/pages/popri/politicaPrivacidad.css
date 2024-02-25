@@ -1,0 +1,35 @@
+.politica-privacidad {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.politica-privacidad__titulo {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #333;
+}
+.politica-privacidad__fecha {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+.politica-privacidad p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #444;
+  margin-bottom: 10px;
+}
+.politica-privacidad a {
+  color: #007bff;
+  text-decoration: none;
+}
+.politica-privacidad a:hover {
+  text-decoration: underline;
+}
+.politica-privacidad h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=politicaPrivacidad.css.map */
