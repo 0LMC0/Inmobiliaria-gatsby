@@ -1,6 +1,6 @@
 [   
     {
-        "id": 4,
+        "id": 0,
         "subNombre": "+19 Contactos",
         "nombre": "Productos ganadores",
         "price": 4999,
@@ -48,7 +48,7 @@
         "id": 4,
         "subNombre": "+1000 contactos",
         "nombre": "Catalogo Completo",
-        "price": 39999,
+        "price": 29999,
         "image": "/assets/img/cards-pdfs/catalogo-completo.png",
         "description": "+1000 contacos | Todos los rubros agrupados estan aca por un precio realmente economico",
         "benefits": ["+20 Rubros Diferentes", "Inversion Inteligente", "+1000 contactos de fabricantes"],
