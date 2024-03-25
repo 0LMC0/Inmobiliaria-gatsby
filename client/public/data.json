@@ -1,17 +1,6 @@
 [
     {
         "id": 0,
-        "subNombre": "Por Tiempo Limitado",
-        "nombre": "Curso E-commerce",
-        "price": 4999,
-        "image": "/assets/img/cards-pdfs/curso-ecommerce.png",
-        "description": "+47 páginas | Descubri estrategias efectivas, consejos prácticos y mas para llevar tu negocio online al siguiente nivel.",
-        "benefits": ["Emprender Con Confianza", "Consejos Accionables", "Guia completa de exito"],
-        "linkMp": "https://mpago.la/12Zo9ix",
-        "quanty": 1
-    },   
-    {
-        "id": 1,
         "subNombre": "+19 Contactos",
         "nombre": "Productos ganadores",
         "price": 4999,
@@ -21,6 +10,17 @@
         "linkMp": "https://mpago.la/22oFi6v",
         "quanty": 1
     },
+    {
+        "id": 1,
+        "subNombre": "Por Tiempo Limitado",
+        "nombre": "Curso E-commerce",
+        "price": 1999,
+        "image": "/assets/img/cards-pdfs/curso-ecommerce.png",
+        "description": "+47 páginas | Descubri estrategias efectivas, consejos prácticos y mas para llevar tu negocio online al siguiente nivel.",
+        "benefits": ["Emprender Con Confianza", "Consejos Accionables", "Guia completa de exito"],
+        "linkMp": "https://mpago.la/1itP6uH",
+        "quanty": 1
+    },   
     {
         "id": 2,
         "subNombre": "+38 Contactos",
