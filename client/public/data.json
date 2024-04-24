@@ -1,28 +1,6 @@
 [
-    {
+        {
         "id": 0,
-        "subNombre": "+11 Contactos - Precio Promocional",
-        "nombre": "Dropshipping",
-        "price": 7999,
-        "image": "/assets/img/cards-pdfs/dropsh.jpg",
-        "description": "+11 Proveedores y Modalidad | Proveedores con la modalidad de -Dropshipping, de rubros como Iphone, Calzado, Indumentaria, Lentes, Termos y mas!",
-        "benefits": ["Calzado - Indumentaria", "Iphone - Termos", "Lentes y Dropshipping General"],
-        "linkMp": "https://mpago.la/2Y7794P",
-        "quanty": 1
-    },
-    {
-        "id": 1,
-        "subNombre": "+19 Contactos",
-        "nombre": "Productos ganadores",
-        "price": 4999,
-        "image": "/assets/img/cards-pdfs/iphones.png",
-        "description": "+19 Proveedores y fabricantes | Amplia gama de modelos de iPhones, JBL y productos de la marca Stanley",
-        "benefits": ["Iphone - Colman", "JBL - Stanley", "Prada - Victoria Secret y mas"],
-        "linkMp": "https://mpago.la/22oFi6v",
-        "quanty": 1
-    },
-    {
-        "id": 2,
         "subNombre": "Por Tiempo Limitado",
         "nombre": "Curso E-commerce",
         "price": 1999,
@@ -32,8 +10,42 @@
         "linkMp": "https://mpago.la/1itP6uH",
         "quanty": 1
     },   
+        {
+        "id": 1,
+        "subNombre": "+53 contactos",
+        "nombre": "Automotor y Motos",
+        "price": 4999,
+        "image": "/assets/img/cards-pdfs/automotor.jpg",
+        "description": "+53 Proveedores y fabricantes | Repuestos de autos, cosmetica, filtros, suspension y de regalo +13 contactos de repuestos para motos",
+        "benefits": ["Repuestos para autos", "Repuestos para Motos", "Detailing y Mas"],
+        "linkMp": "https://mpago.la/2tHsUgp",
+        "quanty": 1
+    },   
+      {
+        "id": 2,
+        "subNombre": "+19 Contactos",
+        "nombre": "Productos ganadores",
+        "price": 3999,
+        "image": "/assets/img/cards-pdfs/iphones.png",
+        "description": "+19 Proveedores y fabricantes | Amplia gama de modelos de iPhones, JBL y productos de la marca Stanley",
+        "benefits": ["Iphone - Colman", "JBL - Stanley", "Prada - Victoria Secret y mas"],
+        "linkMp": "https://mpago.la/22oFi6v",
+        "quanty": 1
+    },
     {
         "id": 3,
+        "subNombre": "+11 Contactos - Precio Promocional",
+        "nombre": "Dropshipping",
+        "price": 4999,
+        "image": "/assets/img/cards-pdfs/dropsh.jpg",
+        "description": "+11 Proveedores y Modalidad | Proveedores con la modalidad de -Dropshipping, de rubros como Iphone, Calzado, Indumentaria, Lentes, Termos y mas!",
+        "benefits": ["Calzado - Indumentaria", "Iphone - Termos", "Lentes y Dropshipping General"],
+        "linkMp": "https://mpago.la/2Y7794P",
+        "quanty": 1
+    },
+  
+    {
+        "id": 4,
         "subNombre": "+38 Contactos",
         "nombre": "Bazar y Juguetería",
         "price": 2999,
@@ -44,7 +56,7 @@
         "quanty": 1
     },
     {
-        "id": 4,
+        "id": 5,
         "subNombre": "+420 Contactos variados",
         "nombre": "Combo Indumentaria",
         "price": 7999,
@@ -56,7 +68,7 @@
     },
 
     {
-        "id": 5,
+        "id": 6,
         "subNombre": "+1000 contactos",
         "nombre": "Catalogo Completo",
         "price": 79999,
@@ -67,7 +79,7 @@
         "quanty": 1
     },
     {
-        "id": 6,
+        "id": 7,
         "subNombre": "+12 Contactos",
         "nombre": "Ferreteria",
         "price": 2999,
@@ -78,7 +90,7 @@
         "quanty": 1
     },
     {
-        "id": 7,
+        "id": 8,
         "subNombre": "+15 Contactos",
         "nombre": "Pañaleras",
         "price": 7999,
@@ -89,7 +101,7 @@
         "quanty": 1
     },
     {
-        "id": 8,
+        "id": 9,
         "subNombre": "+120 Contactos",
         "nombre": "Calzado",
         "price": 3999,
@@ -100,7 +112,7 @@
         "quanty": 1
     },
     {
-        "id": 9,
+        "id": 10,
         "subNombre": "+22 Contactos",
         "nombre": "Tecnologia",
         "price": 2999,
@@ -111,7 +123,7 @@
         "quanty": 1
     },
     {
-        "id": 10,
+        "id": 11,
         "subNombre": "+10 Contactos",
         "nombre": "Relojes",
         "price": 2999,
@@ -122,7 +134,7 @@
         "quanty": 1
     },
     {
-        "id": 11,
+        "id": 12,
         "subNombre": "+22 Contactos",
         "nombre": "Perfumes",
         "price": 2999,
@@ -133,7 +145,7 @@
         "quanty": 1
     },    
     {
-        "id": 12,
+        "id": 13,
         "subNombre": "+69 Contactos",
         "nombre": "Accesorios",
         "price": 2999,
@@ -144,7 +156,7 @@
         "quanty": 1
     },
     {
-        "id": 13,
+        "id": 14,
         "subNombre": "+37 Contactos",
         "nombre": "Importadores",
         "price": 3999,
@@ -156,7 +168,7 @@
     }
     ,
     {
-        "id": 14,
+        "id": 15,
         "subNombre": "+17 Contactos",
         "nombre": "Productos De Temporada",
         "price": 2999,
@@ -167,7 +179,7 @@
         "quanty": 1
     },
     {
-        "id": 15,
+        "id": 16,
         "subNombre": "+74 Contactos",
         "nombre": "Ropa Deportiva",
         "price": 3999,
@@ -178,7 +190,7 @@
         "quanty": 1
     },
     {
-        "id": 16,
+        "id": 17,
         "subNombre": "+93 Contactos",
         "nombre": "Jeans",
         "price": 2999,
@@ -189,7 +201,7 @@
         "quanty": 1
     },
     {
-        "id": 17,
+        "id": 18,
         "subNombre": "+26 Contactos",
         "nombre": "Kiosco y Almacen",
         "price": 2999,
@@ -200,7 +212,7 @@
         "quanty": 1
     },
     {
-        "id": 18,
+        "id": 19,
         "subNombre": "+16 Contactos",
         "nombre": "Bebidas",
         "price": 2999,
@@ -211,7 +223,7 @@
         "quanty": 1
     },
     {
-        "id": 19,
+        "id": 20,
         "subNombre": "+20 Contactos",
         "nombre": "Libreria y Papelera",
         "price": 2999,
@@ -222,7 +234,7 @@
         "quanty": 1
     },
     {
-        "id": 20,
+        "id": 21,
         "subNombre": "+18 Contactos",
         "nombre": "Gorras",
         "price": 2999,
@@ -233,7 +245,7 @@
         "quanty": 1
     },
     {
-        "id": 21,
+        "id": 22,
         "subNombre": "+30 Contactos",
         "nombre": "Pet Shop",
         "price": 2999,
@@ -244,7 +256,7 @@
         "quanty": 1
     },
     {
-        "id": 22,
+        "id": 23,
         "subNombre": "+30 Contactos",
         "nombre": "Lenceria",
         "price": 2999,
@@ -255,7 +267,7 @@
         "quanty": 1
     },
     {
-        "id": 23,
+        "id": 24,
         "subNombre": "+30 Contactos",
         "nombre": "Ropa de Niños y Bebes",
         "price": 2999,
