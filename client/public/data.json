@@ -1,6 +1,17 @@
 [
-        {
+    {
         "id": 0,
+        "subNombre": "+11 Contactos - Precio Promocional",
+        "nombre": "Dropshipping",
+        "price": 7999,
+        "image": "/assets/img/cards-pdfs/dropsh.jpg",
+        "description": "+11 Proveedores y Modalidad | Proveedores con la modalidad de -Dropshipping, de rubros como Iphone, Calzado, Indumentaria, Lentes, Termos y mas!",
+        "benefits": ["Calzado - Indumentaria", "Iphone - Termos", "Lentes y Dropshipping General"],
+        "linkMp": "https://mpago.la/2Y7794P",
+        "quanty": 1
+    },
+        {
+        "id": 1,
         "subNombre": "Por Tiempo Limitado",
         "nombre": "Curso E-commerce",
         "price": 1999,
@@ -10,18 +21,7 @@
         "linkMp": "https://mpago.la/1itP6uH",
         "quanty": 1
     },   
-        {
-        "id": 1,
-        "subNombre": "+53 contactos",
-        "nombre": "Automotor y Motos",
-        "price": 4999,
-        "image": "/assets/img/cards-pdfs/automotor.jpg",
-        "description": "+53 Proveedores y fabricantes | Repuestos de autos, cosmetica, filtros, suspension y de regalo +13 contactos de repuestos para motos",
-        "benefits": ["Repuestos para autos", "Repuestos para Motos", "Detailing y Mas"],
-        "linkMp": "https://mpago.la/2tHsUgp",
-        "quanty": 1
-    },   
-      {
+    {
         "id": 2,
         "subNombre": "+19 Contactos",
         "nombre": "Productos ganadores",
@@ -32,18 +32,17 @@
         "linkMp": "https://mpago.la/22oFi6v",
         "quanty": 1
     },
-    {
+        {
         "id": 3,
-        "subNombre": "+11 Contactos - Precio Promocional",
-        "nombre": "Dropshipping",
-        "price": 7999,
-        "image": "/assets/img/cards-pdfs/dropsh.jpg",
-        "description": "+11 Proveedores y Modalidad | Proveedores con la modalidad de -Dropshipping, de rubros como Iphone, Calzado, Indumentaria, Lentes, Termos y mas!",
-        "benefits": ["Calzado - Indumentaria", "Iphone - Termos", "Lentes y Dropshipping General"],
-        "linkMp": "https://mpago.la/2Y7794P",
+        "subNombre": "+53 contactos",
+        "nombre": "Automotor y Motos",
+        "price": 4999,
+        "image": "/assets/img/cards-pdfs/automotor.jpg",
+        "description": "+53 Proveedores y fabricantes | Repuestos de autos, cosmetica, filtros, suspension y de regalo +13 contactos de repuestos para motos",
+        "benefits": ["Repuestos para autos", "Repuestos para Motos", "Detailing y Mas"],
+        "linkMp": "https://mpago.la/2tHsUgp",
         "quanty": 1
-    },
-  
+    },    
     {
         "id": 4,
         "subNombre": "+38 Contactos",
