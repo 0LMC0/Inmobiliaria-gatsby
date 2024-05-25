@@ -10,7 +10,7 @@
         "linkMp": "https://mpago.la/2Y7794P",
         "quanty": 1
     },
-        {
+    {
         "id": 1,
         "subNombre": "Por Tiempo Limitado",
         "nombre": "Curso E-commerce",
@@ -20,9 +20,20 @@
         "benefits": ["Emprender Con Confianza", "Consejos Accionables", "Guia completa de exito"],
         "linkMp": "https://mpago.la/1itP6uH",
         "quanty": 1
-    },   
+    }, 
     {
         "id": 2,
+        "subNombre": "+19 contactos",
+        "nombre": "Suplementos Deportivos",
+        "price": 7999,
+        "image": "/assets/img/cards-pdfs/suplemento.jpg",
+        "description": "+19 Proveedores y fabricantes | Suplementos Deportivos nacionales e importados, Equipamiento para gimnasio, maquinaria, fabricates y mucho mas",
+        "benefits": ["Equipamiento para gimnasio", "Suplementos Deportivos", "Maquinaria - Fabricas y fabricantes"],
+        "linkMp": "https://mpago.la/1BDcy5r",
+        "quanty": 1
+        },
+    {
+        "id": 3,
         "subNombre": "+19 Contactos",
         "nombre": "Productos ganadores",
         "price": 4999,
@@ -32,8 +43,9 @@
         "linkMp": "https://mpago.la/22oFi6v",
         "quanty": 1
     },
+       
         {
-        "id": 3,
+        "id": 4,
         "subNombre": "+53 contactos",
         "nombre": "Automotor y Motos",
         "price": 4999,
@@ -44,7 +56,7 @@
         "quanty": 1
     },    
     {
-        "id": 4,
+        "id": 5,
         "subNombre": "+38 Contactos",
         "nombre": "Bazar y Juguetería",
         "price": 2999,
@@ -55,7 +67,7 @@
         "quanty": 1
     },
     {
-        "id": 5,
+        "id": 6,
         "subNombre": "+420 Contactos variados",
         "nombre": "Combo Indumentaria",
         "price": 7999,
@@ -67,7 +79,7 @@
     },
 
     {
-        "id": 6,
+        "id": 7,
         "subNombre": "+1000 contactos",
         "nombre": "Catalogo Completo",
         "price": 79999,
@@ -78,7 +90,7 @@
         "quanty": 1
     },
     {
-        "id": 7,
+        "id": 8,
         "subNombre": "+12 Contactos",
         "nombre": "Ferreteria",
         "price": 2999,
@@ -89,7 +101,7 @@
         "quanty": 1
     },
     {
-        "id": 8,
+        "id": 9,
         "subNombre": "+15 Contactos",
         "nombre": "Pañaleras",
         "price": 7999,
@@ -100,7 +112,7 @@
         "quanty": 1
     },
     {
-        "id": 9,
+        "id": 10,
         "subNombre": "+120 Contactos",
         "nombre": "Calzado",
         "price": 3999,
@@ -111,7 +123,7 @@
         "quanty": 1
     },
     {
-        "id": 10,
+        "id": 11,
         "subNombre": "+22 Contactos",
         "nombre": "Tecnologia",
         "price": 2999,
@@ -122,7 +134,7 @@
         "quanty": 1
     },
     {
-        "id": 11,
+        "id": 12,
         "subNombre": "+10 Contactos",
         "nombre": "Relojes",
         "price": 2999,
@@ -133,7 +145,7 @@
         "quanty": 1
     },
     {
-        "id": 12,
+        "id": 13,
         "subNombre": "+22 Contactos",
         "nombre": "Perfumes",
         "price": 2999,
@@ -144,7 +156,7 @@
         "quanty": 1
     },    
     {
-        "id": 13,
+        "id": 14,
         "subNombre": "+69 Contactos",
         "nombre": "Accesorios",
         "price": 2999,
@@ -155,7 +167,7 @@
         "quanty": 1
     },
     {
-        "id": 14,
+        "id": 15,
         "subNombre": "+37 Contactos",
         "nombre": "Importadores",
         "price": 3999,
@@ -167,7 +179,7 @@
     }
     ,
     {
-        "id": 15,
+        "id": 16,
         "subNombre": "+17 Contactos",
         "nombre": "Productos De Temporada",
         "price": 2999,
@@ -178,7 +190,7 @@
         "quanty": 1
     },
     {
-        "id": 16,
+        "id": 17,
         "subNombre": "+74 Contactos",
         "nombre": "Ropa Deportiva",
         "price": 3999,
@@ -189,7 +201,7 @@
         "quanty": 1
     },
     {
-        "id": 17,
+        "id": 18,
         "subNombre": "+93 Contactos",
         "nombre": "Jeans",
         "price": 2999,
@@ -200,7 +212,7 @@
         "quanty": 1
     },
     {
-        "id": 18,
+        "id": 19,
         "subNombre": "+26 Contactos",
         "nombre": "Kiosco y Almacen",
         "price": 2999,
@@ -211,7 +223,7 @@
         "quanty": 1
     },
     {
-        "id": 19,
+        "id": 20,
         "subNombre": "+16 Contactos",
         "nombre": "Bebidas",
         "price": 2999,
@@ -222,7 +234,7 @@
         "quanty": 1
     },
     {
-        "id": 20,
+        "id": 21,
         "subNombre": "+20 Contactos",
         "nombre": "Libreria y Papelera",
         "price": 2999,
@@ -233,7 +245,7 @@
         "quanty": 1
     },
     {
-        "id": 21,
+        "id": 22,
         "subNombre": "+18 Contactos",
         "nombre": "Gorras",
         "price": 2999,
@@ -244,7 +256,7 @@
         "quanty": 1
     },
     {
-        "id": 22,
+        "id": 23,
         "subNombre": "+30 Contactos",
         "nombre": "Pet Shop",
         "price": 2999,
@@ -255,7 +267,7 @@
         "quanty": 1
     },
     {
-        "id": 23,
+        "id": 24,
         "subNombre": "+30 Contactos",
         "nombre": "Lenceria",
         "price": 2999,
@@ -266,7 +278,7 @@
         "quanty": 1
     },
     {
-        "id": 24,
+        "id": 25,
         "subNombre": "+30 Contactos",
         "nombre": "Ropa de Niños y Bebes",
         "price": 2999,
